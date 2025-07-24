@@ -1,3 +1,5 @@
+@REM 根据文件全名或后缀名递归删除文件
+
 @echo off
 chcp 65001 >nul
 setlocal enabledelayedexpansion
